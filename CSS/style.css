@@ -1,0 +1,47 @@
+/*header*/
+header{
+	width: 1318px;
+	display: flex;
+	justify-content: space-around;
+	margin: 37px auto;
+}
+.nav-div{
+	width: 485px;
+}
+ul{
+	display: flex;
+	justify-content: space-around;
+}
+h1{
+	color: #3D37F1;
+	font-size: 32px;
+	font-family: "Lato";
+	font-weight: bold;
+}
+.header-span{
+	color: #4B647E;
+	font-weight: lighter;
+}
+li{
+	font-size: 20px;
+	font-family: "Lato";
+	font-weight: bold;
+}
+a{
+	color: #3D37F1;
+
+}
+/*section1*/
+.section-div{
+	display: flex;
+	justify-content: space-around;
+}
+.first-img{
+	width: 501px;
+	height: 326.63px;
+}
+.text{
+	width: 501px;
+	height: 326.63px;
+
+}
